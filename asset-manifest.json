@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.3d714c8c.css",
-    "main.js": "/MyPortfolio/static/js/main.d134a3f9.js",
+    "main.js": "/MyPortfolio/static/js/main.eeab68cc.js",
     "static/js/787.128fc6e9.chunk.js": "/MyPortfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/resume.pdf": "/MyPortfolio/static/media/resume.675087a39befa536459a.pdf",
     "static/media/dicoding-js.png": "/MyPortfolio/static/media/dicoding-js.0d9f522f2e7d05619f4e.png",
@@ -14,6 +14,7 @@
     "static/media/progate-htmlcss.png": "/MyPortfolio/static/media/progate-htmlcss.60406a4a02834b312170.png",
     "static/media/mtcna.jpg": "/MyPortfolio/static/media/mtcna.2ee5684f51d76ad95490.jpg",
     "static/media/fcc-responsive.png": "/MyPortfolio/static/media/fcc-responsive.af4db224df54cb3ca714.png",
+    "static/media/sql.svg": "/MyPortfolio/static/media/sql.7e3c2025a2f083448bd8b4aa32b126ea.svg",
     "static/media/linux.svg": "/MyPortfolio/static/media/linux.32a9bcd0350f51b5188852a775332b6c.svg",
     "static/media/kubernetes.svg": "/MyPortfolio/static/media/kubernetes.44d2e074b50592a1e5050b2713afd82c.svg",
     "static/media/react.svg": "/MyPortfolio/static/media/react.19465659ecf7a1122618d3dcf23bf337.svg",
@@ -30,17 +31,18 @@
     "static/media/javascript.svg": "/MyPortfolio/static/media/javascript.1d3d28798f08ea1ed7cd47f812044c4f.svg",
     "static/media/gitlab.svg": "/MyPortfolio/static/media/gitlab.e8e2109489324972d0bce8491d9f36c0.svg",
     "static/media/curve-hr.svg": "/MyPortfolio/static/media/curve-hr.cbdc8e90bbbff51174494b17a5db6755.svg",
+    "static/media/sap.svg": "/MyPortfolio/static/media/sap.447c7ca3440c1638a9c071c2bb647e24.svg",
     "static/media/tailwind.svg": "/MyPortfolio/static/media/tailwind.7817889fda1887000f0e712239d42b5a.svg",
     "static/media/slick.woff": "/MyPortfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/MyPortfolio/index.html",
     "static/media/express.svg": "/MyPortfolio/static/media/express.ea97b712340ffb8f11d85ccb96309507.svg",
     "static/media/windows.svg": "/MyPortfolio/static/media/windows.7246ccf28ddce71d8cfd11c1ffc38c86.svg",
     "main.3d714c8c.css.map": "/MyPortfolio/static/css/main.3d714c8c.css.map",
-    "main.d134a3f9.js.map": "/MyPortfolio/static/js/main.d134a3f9.js.map",
+    "main.eeab68cc.js.map": "/MyPortfolio/static/js/main.eeab68cc.js.map",
     "787.128fc6e9.chunk.js.map": "/MyPortfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d714c8c.css",
-    "static/js/main.d134a3f9.js"
+    "static/js/main.eeab68cc.js"
   ]
 }
